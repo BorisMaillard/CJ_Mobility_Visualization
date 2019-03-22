@@ -1,5 +1,5 @@
 # CJ_Mobility_Visualization
-Visualization of Central Jersey mobility flows (Python)
+Visualization of Central Jersey mobility flows (Python code under Jupyter Notebook)
 
 A Transportation Task has been initiated by the Princeton Municipality with some volunteers.
 The task is to understand the mobility flows of people inside and outside of municipalities
