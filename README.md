@@ -17,7 +17,7 @@ Sets of files
    - DataCJflowsOUT.csv = date file for all OUT-commuters
    - DataCJflows_Pivot_Table.ipynb = notebook for loading data and creating pivot table
 
-2. 
-   - 
-   - 
-   - 
+2. Modelling of circulation flows on Route 1 in Central Jersey
+   - ...
+   - ...
+   - ...
