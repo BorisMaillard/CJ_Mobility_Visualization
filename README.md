@@ -9,3 +9,15 @@ transportation plan.
 Work has been initiated from Census data under Excel, mainly by using pivot tables. Idea is
 to continue the work with Python in order to build more attractive and dynamic visualization
 animations for local deciders.
+
+Sets of files
+
+(1)
+   - 
+   - 
+   -
+
+(2)
+   - 
+   - 
+   - 
