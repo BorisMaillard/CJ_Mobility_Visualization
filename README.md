@@ -13,6 +13,7 @@ animations for local deciders.
 Sets of files
 
 1. All commuters in and out of Central Jersey
+   - DataCJflows.xlsx = genuine working file with all data and pivot tables
    - DataCJflowsIN.csv = data file for all IN-commuters
    - DataCJflowsOUT.csv = date file for all OUT-commuters
    - DataCJflows_Pivot_Table.ipynb = notebook for loading data and creating pivot table
