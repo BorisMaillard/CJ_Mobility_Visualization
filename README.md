@@ -20,5 +20,5 @@ Sets of files
 
 2. Modelling of circulation flows on Route 1 in Central Jersey
    - Route1Analysis.xlsx = genuine working file with all data and calculations
-   - ...
-   - ...
+   - Route1Analysis.csv = data file for all CJ commuters crossing, avoiding or using Route 1
+   - Route1AnalysisCalculations.ipynb = notebook for loading data, creating pivot tables and analyzing data (under progress)
