@@ -16,7 +16,7 @@ Sets of files
    - DataCJflows.xlsx = genuine working file with all data and pivot tables
    - DataCJflowsIN.csv = data file for all IN-commuters
    - DataCJflowsOUT.csv = date file for all OUT-commuters
-   - DataCJflows_Pivot_Table.ipynb = notebook for loading data and creating pivot table (only to date, futher investigations on going for data visualisation)
+   - DataCJflows_Pivot_Table.ipynb = notebook for loading data and creating pivot table (only to date, further investigations on going for data visualisation)
 
 2. Modelling of circulation flows on Route 1 in Central Jersey
    - Route1Analysis.xlsx = genuine working file with all data and calculations
