@@ -12,12 +12,12 @@ animations for local deciders.
 
 Sets of files
 
-(1)
-   - 
-   - 
-   -
+1. All commuters in and out of Central Jersey
+   - DataCJflowsIN.csv = data file for all IN-commuters
+   - DataCJflowsOUT.csv = date file for all OUT-commuters
+   - DataCJflows_Pivot_Table.ipynb = notebook for loading data and creating pivot table
 
-(2)
+2. 
    - 
    - 
    - 
